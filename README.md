@@ -11,4 +11,5 @@ https://help.github.com/articles/about-github-package-registry/#supported-client
 
 npm i docsify-cli -g
 
-Initialization succeeded! Please run docsify serve 
+https://docsify.js.org/#/quickstart
+
