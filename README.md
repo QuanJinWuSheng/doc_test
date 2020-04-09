@@ -9,4 +9,6 @@ git push -u origin master
 # about-github-package-registry
 https://help.github.com/articles/about-github-package-registry/#supported-clients-and-formats
 
-https://www.jianshu.com/p/88e70f32b049
+npm i docsify-cli -g
+
+Initialization succeeded! Please run docsify serve 
